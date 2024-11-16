@@ -7,8 +7,8 @@ Multiple images can be given borders at once by adding a comma between each imag
 ![image](https://github.com/user-attachments/assets/20656209-e75a-4c42-ac96-62564aa527b7)
 
 # Result
-### Original Image
+### Input Image
 ![fNkTGrazwveE37E](https://github.com/user-attachments/assets/8f6faf63-ef28-40b2-a0f7-9d014d9bd301)
 
-### New Image
+### Output Image
 ![fNkTGrazwveE37E_Bordered](https://github.com/user-attachments/assets/ca68af82-9191-48b5-af18-9dea3817fce1)

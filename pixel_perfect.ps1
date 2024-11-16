@@ -1,10 +1,10 @@
 param ([String[]]$imagePaths)
 
+Add-Type -AssemblyName "System.Drawing"
+
 Function Get-LargestDimension([String] $path)
 {
-    Add-Type -AssemblyName "System.Drawing"
     $image = [System.Drawing.Image]::FromFile($path)
-
     return [Math]::Max($image.Width, $image.Height)
 }
 
